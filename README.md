@@ -8,3 +8,4 @@ hello1
 hello2
 >>>>>>> branch2
 hello3
+hello3
