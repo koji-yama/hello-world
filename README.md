@@ -17,3 +17,4 @@ hello3
 hello4
 >>>>>>> branch5
 >>>>>>> branch3
+hello6
